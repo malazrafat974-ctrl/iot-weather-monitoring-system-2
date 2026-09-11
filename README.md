@@ -43,7 +43,7 @@ This project demonstrates the basic concepts of **IoT, sensor data collection, m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/malaz/iot-weather-monitoring-system.git
+git clone https://github.com/malazrafat974-ctrl/iot-weather-monitoring-system-2)
 ```
 
 ### 2. Open the Project
